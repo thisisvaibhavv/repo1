@@ -1,5 +1,3 @@
-# itssouray.github.io-repo4
-
 #About the project:-
 --------------------
 The project is build using html, css and js. The focus of this project is to short a given url using an api.
